@@ -1,4 +1,8 @@
-## Hi there 👋
+-   **Name:** Nandini Soota
+-   **Branch:** Computer Science Core
+-   **Year:** First year
+-   **Learning Goal:** To master data structures and algorithms while building practical projects to develop industry-ready software engineering skills.
+
 
 <!--
 **Nandini-Soota/Nandini-Soota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

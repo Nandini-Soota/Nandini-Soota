@@ -1,6 +1,6 @@
 -   **Name:** Nandini Soota
 -   **Branch:** Computer Science Core
--   **Year:** First year
+-   **Year:** 2025 - 2029
 -   **Learning Goal:** To master data structures and algorithms while building practical projects to develop industry-ready software engineering skills.
 
 
